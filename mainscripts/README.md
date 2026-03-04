@@ -6,6 +6,8 @@ In this folder are the scripts to fully run this project, they should be ran in 
 
 3) datasetsplitter - this code splits the masked images into three folders for training, validation and testing.
 
+4) classifier - the CNN used to classify if the coral is bleached or unbleached, takes dataset split masked data as an input.
+
 The dataset used is Healthy and Bleached Corals Image Classification: https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification/data
 This dataset included 485 images of bleached corals and 438 images of healthy corals.
 
